@@ -1,21 +1,21 @@
 ## Welcome to GitHub Pages
 
-也不知改啥，网慢的一逼You can use the [editor on GitHub](https://github.com/a104655/xiefenghong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/a104655/xiefenghong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-11Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-22Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-33Syntax highlighted code block
+Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- 44Bulleted
+- Bulleted
 - List
 
 1. Numbered
@@ -26,12 +26,12 @@
 [Link](url) and ![Image](src)
 ```
 
-55For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-66Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a104655/xiefenghong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/a104655/xiefenghong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-77Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
