@@ -1,3 +1,4 @@
+ ![Image](https://hbimg.huabanimg.com/136f3f892415a781bc4828b1c1f7b741982ac6e46ff0-nhNnRY_fw658/format/webp)
 ## 初来乍到，请多关照
 [编辑博客](https://github.com/a104655/xiefenghong.github.io/edit/gh-pages/index.md) 
 
